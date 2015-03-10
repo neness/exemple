@@ -1,2 +1,2 @@
 Hello Git !
-hi git 
+hi git it's fun to use git 
